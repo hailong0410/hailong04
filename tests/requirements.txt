@@ -1,3 +1,0 @@
-facenet-pytorch
-gdown
-pytest
